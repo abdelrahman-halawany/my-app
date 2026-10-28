@@ -7,4 +7,4 @@ a good landing page that enhances ux
 npm run dev
 ---
 
-![landing page](screenshots/landing.png)
+![landing page](C:\React\my-app\.next\dev\screenshots\landing.png)
